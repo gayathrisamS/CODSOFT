@@ -1,0 +1,36 @@
+sript tag open in html
+<srcipt>
+
+</script>
+and get the input;;;
+let (somename)output =document.getElementById('output");
+ function create for one by one we give taht html....................................
+..........
+
+function display(num(variable)){
+output+=num;
+
+then create the function in calculator function....equal
+ 
+function calculate(){
+try{
+output.value=eval(outpurt.value);
+}
+catch(err)
+{
+alret("invalid");
+}
+
+
+then create the function cler 
+function clear()
+{
+output.value= "";
+
+}
+
+then create delete functin
+
+function del(){
+output.value=output.value.slice(0,-1);
+}
